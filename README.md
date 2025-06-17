@@ -9,7 +9,7 @@ It is a type of Recurrent Neural Network (RNN) architecture used in the field of
 This project implements a Speech Emotion Recognition system that can classify audio files into different emotional categories. The model can detect and classify emotions in spoken words
 
 ## 📊 Dataset Information
-
+- **Data set Link(kaggle) ->**https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 - **Total Samples**: 800*7 audio files
 - **Format**: WAV audio files
 - **Target Words**: 200 different words spoken in the carrier phrase "Say the word _"
